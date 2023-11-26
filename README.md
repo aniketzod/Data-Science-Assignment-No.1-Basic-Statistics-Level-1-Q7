@@ -6,3 +6,4 @@ inferences, for the given dataset
     Find Mean, Median, Mode, Variance, Standard Deviation, and Range 
     and also Comment about the values/ Draw some inferences. 
     Use Q7.csv file
+    
